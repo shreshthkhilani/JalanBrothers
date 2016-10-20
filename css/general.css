@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, p {
 	background-attachment: fixed;
 	background-repeat: none;
 	background-size: cover;
-	background-image: url('/images/bg/1.jpg');
+	background-image: url('/images/bg/9.jpeg');
 }
 
 .bgimg2 {
@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, p {
 	background-attachment: fixed;
 	background-repeat: none;
 	background-size: cover;
-	background-image: url('/images/bg/2.jpg');
+	background-image: url('/images/bg/10.jpeg');
 }
 
 .bgimg3 {
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, p {
 	background-attachment: fixed;
 	background-repeat: none;
 	background-size: cover;
-	background-image: url('/images/bg/3.jpeg');
+	background-image: url('/images/bg/11.jpg');
 }
 
 .bgimg9 {
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 #partners {
-	background-color: #2e3b47;
+	background-color: #366797;
 	color: #fff;
 }
 
@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 .orangetext {
-	color: #f48220;
+	color: #366797;
 }
 
 #header {
@@ -111,8 +111,8 @@ h1, h2, h3, h4, h5, p {
 
 /* BUTTONS */
 
-/* This is the orange #f48220 */
-/* This is the navy #2e3b47 */
+/* This is the orange #366797 */
+/* This is the navy #366797 */
 
 .linkbtn {
 	background-color: #fff;
@@ -120,17 +120,17 @@ h1, h2, h3, h4, h5, p {
 	padding-right: 16px;
 	border-radius: 0px;
 	height: 36px;
-	color: #2e3b47;
-	border: 1px solid #2e3b47;
+	color: #366797;
+	border: 1px solid #366797;
 }
 
 .linkbtn:hover {
-	background-color: #2e3b47 !important;
+	background-color: #366797 !important;
 	color: #fff !important;
 }
 
 .linkbtnnow {
-	background-color: #2e3b47 !important;
+	background-color: #366797 !important;
 	color: #fff !important;
 }
 
@@ -219,7 +219,7 @@ button:focus {
 
 a > .orangetext {
 	text-decoration: underline;
-	color: #f48220;;
+	color: #366797;;
 }
 
 a:hover {
@@ -238,14 +238,14 @@ a:hover {
 	height: 12px;
 	border-radius: 12px;
 	margin-bottom: 6px;
-	border: 1px solid #f48220;
+	border: 1px solid #366797;
 	background-color: #fff;
 	cursor: pointer;
 	
 }
 
 .fullcircle {
-	background-color: #f48220 !important;
+	background-color: #366797 !important;
 }
 
 .leftcorner {
@@ -279,7 +279,7 @@ a:hover {
 
 .lll {
 	/*background-attachment: scroll;*/
-	background-image: url('/images/graphics/lineduplyinglinks2.png');
+	background-image: url('/images/graphics/jblineduplyinglinks.png');
 	max-width: 940px;
 	background-position: 100% 100%;
 	margin: 0 auto;
@@ -327,4 +327,15 @@ a:hover {
 .socialimg {
 	width: 32px;
 	margin-right: 16px;
+}
+
+
+.footerlink, .footerlink:visited {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.footerlink:hover {
+	color: #fff !important;
+	text-decoration: none !important;
 }
